@@ -1,6 +1,8 @@
 GoRethink-Helper - GoRethink helper for Go
 ======
-*** Note: Lots of the code so far is based on github.com/jinzhu/gorm ***
+
+** Note: Lots of the code so far is based on github.com/jinzhu/gorm **
+
 ### Basic Usage
 
 ```go
